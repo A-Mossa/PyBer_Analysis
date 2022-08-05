@@ -30,10 +30,13 @@ That wasn't unexpected, because there are more drivers in urban settings with th
   - Last but not least urban cities with an average of $16.57
 ![FareByCityType](https://github.com/A-Mossa/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-## Election-Audit Summary
-The code utilized this audit is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
-given the next project posses a similar database, the code can be slightly refactored to accomodate difference and changes if the desired outcome is of the same nature as this audit.
+## PyBar RideShare Data Summary
 
-![Code_screenshot](https://github.com/A-Mossa/Election-Analysis/blob/main/PyPollCode.png)
-
-For example, if in the future should the stake holders wish to include additional attributes, then more variables would be created and code would be slightly modified to govern the interaction between said variables.
+First off, There are some clear observations the team concluded:
+  - the number of drivers in urban cities was significantly higher than both suburban and rural settings.
+  - the average fare per ride in rural cities was around three times higher than urban amd almost twice as much as suburban cities.
+  - the total rides for urban cities were the highest and almost dwarfes suburban and rural cities.
+Based on these key points, the Data analytic team at PyBar have the following recommendations:
+  - There is a need to increase the number of drivers in rural cities specifically either by marketing or incentivizing more drivers to join, as data shows there is demand for such services. we backed this insight on the fact that customers were willing to pay high prices for the service.
+  - It's proven by data that there is leeway to bump up prices slightly as customers are becoming on such services and the competition is also beginning to take advantage.
+  - We need to come up with promos to drive service usage around the end of the year and  the beginning of the new year, as these are the lowest scoring months.
