@@ -33,10 +33,10 @@ That wasn't unexpected, because there are more drivers in urban settings with th
 ## PyBar RideShare Data Summary
 
 First off, There are some clear observations the team concluded:
-  - the number of drivers in urban cities was significantly higher than both suburban and rural settings.
-  - the average fare per ride in rural cities was around three times higher than urban amd almost twice as much as suburban cities.
-  - the total rides for urban cities were the highest and almost dwarfes suburban and rural cities.
+    - the number of drivers in urban cities was significantly higher than both suburban and rural settings.
+    - the average fare per ride in rural cities was around three times higher than urban amd almost twice as much as suburban cities.
+    - the total rides for urban cities were the highest and almost dwarfes suburban and rural cities.
 Based on these key points, the Data analytic team at PyBar have the following recommendations:
-  - There is a need to increase the number of drivers in rural cities specifically either by marketing or incentivizing more drivers to join, as data shows there is demand for such services. we backed this insight on the fact that customers were willing to pay high prices for the service.
-  - It's proven by data that there is leeway to bump up prices slightly as customers are becoming on such services and the competition is also beginning to take advantage.
-  - We need to come up with promos to drive service usage around the end of the year and  the beginning of the new year, as these are the lowest scoring months.
+    - There is a need to increase the number of drivers in rural cities specifically either by marketing or incentivizing more drivers to join, as data shows there is demand for such services. we backed this insight on the fact that customers were willing to pay high prices for the service.
+    - It's proven by data that there is leeway to bump up prices slightly as customers are becoming on such services and the competition is also beginning to take advantage.
+    - We need to come up with promos to drive service usage around the end of the year and  the beginning of the new year, as these are the lowest scoring months.
