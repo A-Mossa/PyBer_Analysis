@@ -1,7 +1,7 @@
 # Pyber Analysis
 
 ## Overview of PyBer Analysis
-In my second week as a data analyst at PyBer, a leading ride-sharing app, I've been assigned with the analysis of all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize. Alongside my manager, Omar, a thourough analysis that is comprehensive and correct was carried out. Some of the points of analysis were :
+In this analysis of PyBer, a leading ride-sharing app, I have analyzed the rideshare data from January to early May of 2019 and created comprehensive visualizations. Some of the points of analysis were :
 1. Calculate the Total number of rides. 
 2. Get a complete list of City types.
 3. Obtain a definitive count of drivers per city type.
